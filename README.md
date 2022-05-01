@@ -1,4 +1,6 @@
 # pythonWXemailMP3SMS
+python自动化 监听 抢菜app 是否有货
+到货自动提醒  通过fiddler 抓包
 支持微信邮件音乐短信提醒python五一 自动检测上海保供永辉买菜  by qiweb3  
 # @Time    : 2022/5/1 
 # @Author  : qiweb3
@@ -10,6 +12,8 @@
 #上海买菜太难了   送给你
 
 ![image](https://github.com/QIWEB/pythonWXemailMP3SMS/blob/main/sendSMS-EMAIL_20220501160411.jpg)
+![image](https://github.com/QIWEB/pythonWXemailMP3SMS/blob/main/wx%E7%BB%91%E5%AE%9Aqq%E9%82%AE%E7%AE%B1%E6%8F%90%E9%86%92.jpg)
+
 
 '''
 #安装下面imprt 第三方库 方法
