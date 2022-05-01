@@ -6,6 +6,7 @@ python自动化 监听 抢菜app 是否有货
 # @Author  : qiweb3
 #微信 908701702 技术交流
 短信接口
+![image](https://github.com/QIWEB/pythonWXemailMP3SMS/blob/main/%E8%BF%90%E8%A1%8C%E6%95%88%E6%9E%9C.jpg)
 # @Software: PyCharm
 # 大家劳动节快乐 送给上海 抢菜的人
 # 不可用于非法用途，使用本程序所产生的后果，与本人概不相关。
@@ -33,3 +34,5 @@ pyperclip模块中有两个函数，分别是copy()和paste()，copy()用于向�
 
 Pygame 是一个专门用来开发游戏的 Python 模块
 用它播放提示音乐
+
+关注公众号  QIWEB网络共享科技   了解支持
