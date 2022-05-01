@@ -202,7 +202,9 @@ def infox(shucai):
     # 已售完
     actiontext = shucai["cartAction"]["actionText"]
     # 已售22423份
-    presaleInfo = shucai["presaleInfo"]["soldVolDesc"]
+    presaleInfo =None
+    if "soldVolDesc" in  shucai["presaleInfo"]:
+         presaleInfo= shucai["presaleInfo"]["soldVolDesc"]
     # 价格
     price = shucai["price"]["price"]
     # 时间
