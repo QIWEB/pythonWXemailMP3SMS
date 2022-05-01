@@ -9,6 +9,8 @@
 # 不可用于非法用途，使用本程序所产生的后果，与本人概不相关。
 #上海买菜太难了   送给你
 
+![image](https://github.com/QIWEB/pythonWXemailMP3SMS/blob/main/sendSMS-EMAIL_20220501160411.jpg)
+
 '''
 #安装下面imprt 第三方库 方法
 #pip3 install pygame -i https://pypi.tuna.tsinghua.edu.cn/simple
